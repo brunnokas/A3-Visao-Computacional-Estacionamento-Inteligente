@@ -336,17 +336,6 @@ Latência por Frame:       ████░░░░░░░░░░░░░�
 
 ---
 
-## 📚 Documentação Completa
-
-- 📄 [Guia de Instalação](docs/INSTALACAO.md)
-- 📄 [Como Usar](docs/GUIA_USO.md)
-- 📄 [Arquitetura do Sistema](docs/ARQUITETURA.md)
-- 📄 [Especificações Técnicas](docs/ESPECIFICACOES_TECNICAS.md)
-- 📄 [Maquete e Testes](maquete/ESPECIFICACOES_MAQUETE.md)
-- 📄 [Resultados dos Testes](maquete/TESTES_REALIZADOS.md)
-
----
-
 ## 📚 Referências Bibliográficas
 
 [1] OpenCV: Open Source Computer Vision Library  

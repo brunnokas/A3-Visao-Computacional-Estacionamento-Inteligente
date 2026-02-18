@@ -87,13 +87,13 @@ Este projeto foi desenvolvido e **validado em uma maquete funcional** que simula
 
 ## 👥 Integrantes
 
-| Nome | Matrícula |
-|------|-----------|
-| Brunno Korps Amorim Souto | 102510152 |
-| João Pedro Vieira Pinto | 102510206 |
-| Luiz Otávio de Faria Azevedo Martins | 102511643 |
-| Pedro Medeiros Gaipo | 102511992 |
-| Rafael Jacinto Resende | 102511846 |
+| Nome |
+
+| Brunno Korps Amorim Souto |
+| João Pedro Vieira Pinto | 
+| Luiz Otávio de Faria Azevedo Martins |
+| Pedro Medeiros Gaipo | 
+| Rafael Jacinto Resende | 
 
 ---
 

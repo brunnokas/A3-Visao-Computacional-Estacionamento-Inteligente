@@ -83,20 +83,6 @@ Este projeto foi desenvolvido e **validado em uma maquete funcional** que simula
 - **Performance**: <100ms por frame (30 FPS)
 - **Status**: ✅ **TODAS 5 FASES APROVADAS**
 
----
-
-## 👥 Integrantes
-
-| Nome |
-
-| Brunno Korps Amorim Souto |
-| João Pedro Vieira Pinto | 
-| Luiz Otávio de Faria Azevedo Martins |
-| Pedro Medeiros Gaipo | 
-| Rafael Jacinto Resende | 
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 ### 🐍 Linguagem de Programação
